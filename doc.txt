@@ -1,0 +1,7 @@
+lm298n driver 
+DFplayer mp3 player
+arduino mega
+LM2596 DC-DC 
+sensor ir
+
+speaker 8ohm 5w
